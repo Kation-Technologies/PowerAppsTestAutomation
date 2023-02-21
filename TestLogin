@@ -1,0 +1,9 @@
+{
+  "TestURLs": 
+  [
+    //Login Success
+    "https://apps.powerapps.com/play/1bc3cded-af01-424f-878c-821d1d8b0df2?tenantId=918b9259-a59f-4e14-82aa-db3052be143c&__PATestSuiteId=f233c024-7038-4ad1-a0dc-112518ac74be&source=testStudioLink",
+    //Login Failed
+    "https://apps.powerapps.com/play/1bc3cded-af01-424f-878c-821d1d8b0df2?tenantId=918b9259-a59f-4e14-82aa-db3052be143c&__PATestSuiteId=8067ac26-d3a5-40ee-91a3-b073224394cd&source=testStudioLink"
+  ]
+}
